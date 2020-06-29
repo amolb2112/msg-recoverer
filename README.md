@@ -2,3 +2,5 @@
 
 =======
 # msg-recoverer
+
+- How to Use
