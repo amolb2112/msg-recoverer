@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+/target
+/.idea
+msg-recoverer.iml
+msg-recoverer-commons/target
+msg-recoverer-dequeue-task/target
+msg-recoverer-patch-task/target
+msg-recoverer-requeue-task/target
+msg-recoverer-commons/msg-recoverer-commons.iml
+msg-recoverer-dequeue-task/msg-recoverer-dequeue-task.iml
+msg-recoverer-patch-task/msg-recoverer-patch-task.iml
+msg-recoverer-requeue-task/msg-recoverer-requeue-task.iml

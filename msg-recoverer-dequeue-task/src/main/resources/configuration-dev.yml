@@ -1,0 +1,7 @@
+brokerConfig:
+  sslEnabled: false
+  brokerHost: brokerhost.com
+  brokerUsername: guest
+  brokerPassword: guest
+
+baseBucketName: msgrecoverer-bucket

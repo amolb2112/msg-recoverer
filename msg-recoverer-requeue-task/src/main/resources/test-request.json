@@ -1,0 +1,17 @@
+{
+  "bucketName": "testbucket",
+  "dlQueueName": "test.dlq",
+  "environment": "dev",
+  "messageIdentifierPath":"$.messageId",
+  "messageSelectionParams": [
+    {
+      "matcherFieldPath": "$.version",
+      "matcherFieldValue": "1.0"
+    },
+    {
+      "matcherFieldPath": "$.subversion",
+      "matcherFieldValue": "2.0"
+    }
+  ],
+  "patchFunctionName": "PatchTaskLambda"
+}
